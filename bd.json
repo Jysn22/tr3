@@ -1,0 +1,34 @@
+[
+    "Producto",
+    {
+        "Id": 1,
+        "Descripcion": "Mouse",
+        "Precio": "50.00",
+        "Imagen": "https://ejemplo.com/imagen.jpg"
+    },
+    {
+        "Id": 1,
+        "Descripcion": "Teclado",
+        "Precio": "150.00",
+        "Imagen": "https://ejemplo.com/imagen.jpg"
+    },
+    {
+        "Id": 1,
+        "Descripcion": "Monitor",
+        "Precio": "300.00",
+        "Imagen": "https://ejemplo.com/imagen.jpg"
+    },
+    {
+        "Id": 1,
+        "Descripcion": "Audifonos",
+        "Precio": "40.00",
+        "Imagen": "https://ejemplo.com/imagen.jpg"
+    },
+    {
+        "Id": 1,
+        "Descripcion": "Tarjeta de video",
+        "Precio": "800.00",
+        "Imagen": "https://ejemplo.com/imagen.jpg"
+    }
+
+]
